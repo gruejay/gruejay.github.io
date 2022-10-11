@@ -7,15 +7,16 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I attended University of Maryland, recieving bachelor's degrees in mathematics and computer science
+before attended Carnegie Mellon University for my master of arts in philosophy, which I received in 
+August 2022. My research interests have been at the intersection of philosophy and computer science,
+including causality, decision theory, and ethics of/about AI. My thesis was advissed by Professor
+Danielle Wenner and focused on how an individual's beliefs affect their conception of themselves
+and their relationships with others. A copy of my thesis can be found under the "Projects" tab.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+My employment has spanned many areas, including IT support at the University of Maryland Institute for
+Advanced Computer studies, where I handled Windows, Mac, and linux system administration tasks. During graduate
+school, I served as a TA, grader for several courses where I was repsonsible for helping develop syllabi, 
+leading recitation sections, and assiting students in office hours. In the summers of 2021 and 2022 I was
+the lead instructor for an introdcutory political philosophy course, for which I was responsible for all aspects
+of the course, including syllabus, lecture plans, assignments, grading, and so forth.
